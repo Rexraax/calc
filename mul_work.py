@@ -4,3 +4,4 @@ def add(a*b):
     haina wala k ko kaam
     naya edit vayo hai ta saathi
     kkkkkkkkkkkkk
+    ok done

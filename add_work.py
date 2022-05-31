@@ -1,3 +1,5 @@
 # This for the add function,
-def add(a+b):
-    return a+b
+a = input("The First number be = ")
+b = input("The Second number be =")
+Sum = a +  b
+print ("The sum of ")
